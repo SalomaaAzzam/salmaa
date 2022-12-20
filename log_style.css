@@ -1,0 +1,46 @@
+body{
+  
+    background-color: rgb(1, 10, 33);
+    }
+    #div{
+       text-align: center;
+    }
+    h1{
+      color: rgb(255, 255, 255);
+    }    
+  
+    #form{
+       border:solid;
+       height: 300px;
+       width: 430px;
+       border-radius: 7%;
+       margin-left: 390px;
+       background-color: rgb(226, 236, 235);
+       border-color: rgb(178, 192, 240);
+       color: rgb(48, 35, 83);
+    }
+
+  
+    #ep{
+       
+       height: 40px;
+       width: 200px;
+    }
+    #b1{
+      
+       height: 40px;
+      width: 200px;
+      background-color: rgb(94, 190, 94);
+      border:none;
+      border-radius: 7%;
+    }
+    #b2{
+       
+       height: 40px;
+       width: 200px;
+       background-color:rgb(222, 92, 92);
+       border:none;
+       border-radius: 7%;
+    }
+    
+    .error {color: #FF0000;}
